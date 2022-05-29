@@ -1,4 +1,4 @@
 # Basic-Statistics-Examples-with-Python
-This repository contains basic examples of how to plot data with Python.
-All the files are in .py
-Thank you for reading it.
+<br />Hey! This repository contains basic examples of how to plot data with Python.</p>
+<p><br />For visualizations purposes, each file will be avaliable in .py and .ipynb.</p>
+<p><br />Thank you for reading it.</p>
